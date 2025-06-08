@@ -38,50 +38,35 @@ Votes per Title
 
 Genre-wise Score Comparison
 
- Key Features of Dashboard
-✅ KPIs
-Total Movies: 387
+## Key Features of Dashboard
+### ✅ KPIs
+#### Total Movies: 387
+#### Total Shows: 246
+#### Avg IMDb Score (Movies): 7.51
+#### Avg IMDb Score (Shows): 8.09
+#### Avg Votes Per Movie: 136.5K
+#### Avg Votes Per Show: 102.0K
+#### Movies to Show Ratio: 1.57
 
-Total Shows: 246
+## Visualizations
+### Pie Charts: Year-wise distribution of shows/movies
+### Bar Charts: Top genres by IMDb score
+### Map: Country-wise distribution of titles
+### Slicers/Filters: Year, Continent, Title Type
 
-Avg IMDb Score (Movies): 7.51
-
-Avg IMDb Score (Shows): 8.09
-
-Avg Votes Per Movie: 136.5K
-
-Avg Votes Per Show: 102.0K
-
-Movies to Show Ratio: 1.57
-
-Visualizations
-Pie Charts: Year-wise distribution of shows/movies
-
-Bar Charts: Top genres by IMDb score
-
-Map: Country-wise distribution of titles
-
-Slicers/Filters: Year, Continent, Title Type
-
-Key Insights
-Western and Reality Shows have the highest IMDb scores among shows.
-
+## Key Insights
+### Western and Reality Shows have the highest IMDb scores among shows.
 Among movies, War, Sci-Fi, and Documentary scored the highest.
-
 The majority of content was released between 2010 and 2019.
-
 The highest volume of content originates from countries like USA, UK, and Japan.
-
 Movies typically have more votes per title compared to shows.
 
-Tools Used
-Power BI
+## Tools Used
+### Power BI
+### Power Query Editor (for data transformation)
+### DAX (for custom KPIs and measures)
 
-Power Query Editor (for data transformation)
-
-DAX (for custom KPIs and measures)
-
-Learnings
+## Learnings
 Built a strong understanding of Power BI data modeling and visual design.
 
 Learned to clean and shape data using Power Query.
@@ -90,7 +75,7 @@ Gained experience writing custom DAX measures for business KPIs.
 
 Practiced creating interactive, filterable dashboards that support analysis and decision-making.
 
- Conclusions
+ ## Conclusions
 Netflix offers a wider range of movies compared to shows, both in volume and user votes.
 
 Shows generally have better IMDb ratings than movies, indicating higher content quality or audience retention.
